@@ -1,0 +1,10 @@
+.idea
+__pycache__/
+
+features/*
+ground_truth_data/*
+out_trajectory/*
+
+!features/
+!ground_truth_data/
+!out_trajectory/
